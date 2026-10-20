@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg?v=1" alt="Hello, I'm Harshit Raj. Data Analyst, MIS Executive, Data Scientist. Fresher based in Mumbai. Looking for an opportunity to learn something new and grow personally and professionally." width="100%"/>
+<img src="assets/hero.svg?v=2" alt="Hello, I'm Harshit Raj. Data Analyst, MIS Executive, Data Scientist. Fresher based in Mumbai. Looking for an opportunity to learn something new and grow personally and professionally." width="100%"/>
 
 </div>
 
@@ -22,7 +22,7 @@
 
 ## GitHub snapshot
 
-<img src="assets/id-dashboard.svg?v=1" alt="Lanyard ID card for Harshit Raj next to a GitHub snapshot checked on 12 Oct 2026: 11 public repositories, 14 commits across the three featured repos, and per-repo commit dates and dataset sizes." width="100%"/>
+<img src="assets/id-dashboard.svg?v=2" alt="Lanyard ID card for Harshit Raj next to a GitHub snapshot checked on 12 Oct 2026: 11 public repositories, 14 commits across the three featured repos, and per-repo commit dates and dataset sizes." width="100%"/>
 
 ## Let's connect
 
